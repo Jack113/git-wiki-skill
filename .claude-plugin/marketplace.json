@@ -1,0 +1,11 @@
+{
+  "name": "jack113-skills",
+  "owner": { "name": "Jack113" },
+  "plugins": [
+    {
+      "name": "git-wiki",
+      "source": "./",
+      "description": "Turns any git repo into a developer handover wiki."
+    }
+  ]
+}

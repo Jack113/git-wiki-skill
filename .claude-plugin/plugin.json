@@ -1,0 +1,10 @@
+{
+  "name": "git-wiki",
+  "displayName": "Git Wiki",
+  "description": "Turns any git repo into a developer handover wiki. Reads the code to answer 12 key questions and asks only when unsure.",
+  "author": { "name": "Jack113" },
+  "homepage": "https://github.com/Jack113/git-wiki-skill",
+  "repository": "https://github.com/Jack113/git-wiki-skill",
+  "license": "MIT",
+  "keywords": ["wiki", "documentation", "onboarding", "handover", "git"]
+}
